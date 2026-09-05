@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.twojastudio.sudokucodziennie"
-    compileSdk = 37
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.twojastudio.sudokucodziennie"
